@@ -1,0 +1,11 @@
+---
+title: "Manali Phadke"
+---
+
+<img src="images/Manali.jpg" style="width:55%">
+
+
+### About Me
+I am currently a first year student in the MS Biostatistics program at Columbia University Mailman School of Public Health in the Pharmaceutical Statistics track.  I completed my BS in Molecular and Cell Biology at UConn in 2017.
+
+My resume can be found [here](Resume_Fall_2017.pdf)

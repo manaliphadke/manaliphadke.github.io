@@ -1,0 +1,11 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - icon: fa-envelope fa-lg
+      href: mailto:<mphadke17@gmail.com>
+    - icon: fa-github fa-lg
+      href: http://github.com/manaliphadke/
+output:
+  html_document
